@@ -1,5 +1,5 @@
 public class Cliente {
-	
+	//Modificacion en la rama Modcliente
 	private String dni;
 	private String nombre;
 	private String especialidad;
